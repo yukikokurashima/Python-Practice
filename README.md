@@ -1,1 +1,1 @@
-# These are my python code for practice
+These are my python code for practice
